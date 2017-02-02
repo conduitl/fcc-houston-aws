@@ -13,4 +13,4 @@ If you haven't done them yet, I recommend completing either of the Basic Front-E
 #Agenda
 * Setup an S3 bucket on AWS
 * Loading your front-end web project onto S3.
-* Viewing and sharing your project using an AWS endpoint, such as [https://space.ct7.io.s3-website-us-east-1.amazonaws.com](space.ct7.io.s3-website-us-east-1.amazonaws.com)
+* Viewing and sharing your project using an AWS endpoint, such as [space.ct7.io.s3-website-us-east-1.amazonaws.com](https://space.ct7.io.s3-website-us-east-1.amazonaws.com)
