@@ -1,0 +1,9 @@
+body {
+  background-color:#DAC27C;
+}
+main {
+  padding-top: 40px;
+}
+.book-cover > img {
+  height: 300px;
+}
